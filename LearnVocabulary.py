@@ -1,3 +1,11 @@
+#
+#  LearnVocabulary.py
+#  LearnVocabulary
+#
+#  Created by Mikhail on 01/04/2018.
+#  Copyright © 2018 Mikhail. All rights reserved.
+#
+
 import ListRandomiser
 
 def waitContinue():
