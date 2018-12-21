@@ -1,0 +1,28 @@
+meus, a, um: mon/ma/mes
+tuus, a, um: ton/ta/tes
+suum, a, um: son/sa/ses/leur/leurs
+noster, -tra, -trum: notre/nos
+vester, -tra, -trum: votre/vos
+
+in + Ab: dans, dedans
+in + A: dans
+ad + A: vers
+a/ab + Ab: s'éloignant de
+e/ex + Ab: hors de
+trans/per + A: à travers
+
+quidam (adj): un certain
+castigo, as, are, avi, atum: punir, châtier
+emo, is, ere, emi, emptum: acheter
+
+quod + ind: parce que
+quod + subj: sous pretexte que
+
+paulo (+ comparatif): un peu  
+sumptiosus, a, um: coûteux, cher
+digredior, eris, gredi, gressus sum: s'éloigner
+
+-ne: est-ce que (participe interrogatif)(se soude au premier mot de la question)
+corripio, is, ere, ripui, riptum: le blâmer
+
+"a patre": par ton père (complément d'agent)
